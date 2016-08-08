@@ -1,0 +1,19 @@
+{
+  "name": "seeya_application",
+  "version": "1.0.0",
+  "description": "application to share schedules as a profile page",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inoabriam"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inert": "^4.0.1"
+  }
+}
